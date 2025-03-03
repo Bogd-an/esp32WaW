@@ -6,7 +6,7 @@
 0. Треба ESPішка (бажано з USB-UART + дрова)
 1. [Прошиваємо MicroPython (вау, онлайн) ](https://bipes.net.br/flash/esp-web-tools/)
 2. Здобуваємо ключі і кидаємо в файл `secrets.py` ([EXAMPLE_secrets.py](srs/EXAMPLE_secrets.py))
-3. Вивантажкємо[ srs файл ](https://github.com/Bogd-an/esp32WaW/blob/main/old_srs/v0.2/main.py)на ESPішку (`EXAMPLE_secrets.py` не треба)
+3. Вивантажкємо[ srs файл ](srs)на ESPішку (`EXAMPLE_secrets.py` не треба)
 4. Профіт
 
 ---
