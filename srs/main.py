@@ -10,7 +10,7 @@ def main():
     except Exception as e:
         print("Bot Exeception:", e)
     time.sleep(3)
-    machine.reset()
+    # machine.reset()
 
 if __name__ == "__main__":
     main()
