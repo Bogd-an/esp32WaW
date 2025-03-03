@@ -9,7 +9,7 @@ def main():
     except Exception as e:
         print("Bot Exeception:", e)
     sleep(3)
-    reset()
+    # reset()
 
 if __name__ == "__main__":
     main()
