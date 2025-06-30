@@ -1,5 +1,7 @@
 # Костиль для віддаленого Wake on Lan
 
+[Online IDE MicroPython](https://viper-ide.org/)
+
 Основа: _ESP32_, _MicroPython_, _Telegram bot_
 
 ## Інсталяція:
